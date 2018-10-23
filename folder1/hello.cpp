@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
-int main()
+void main()
 {
-   cout << "Hello, World! :)" << endl;
-   return 0;
+   cout << "Hello, World! :);)" << endl;
+   //return 0;
 }
